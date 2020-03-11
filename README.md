@@ -1,1 +1,3 @@
 # TUWR
+The main gosl id to learn Python....
+OUCH!!
